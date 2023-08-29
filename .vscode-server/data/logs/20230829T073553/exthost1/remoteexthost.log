@@ -1,0 +1,4 @@
+2023-08-29 07:37:16.134 [info] Extension host with pid 352 started
+2023-08-29 07:37:16.739 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3c24601e7b833fc8a14fcaa1816554e1/vscode.lock': Lock acquired.
+2023-08-29 12:48:38.382 [error] Error: read ECONNRESET
+	at TCP.onStreamRead (node:internal/stream_base_commons:217:20)

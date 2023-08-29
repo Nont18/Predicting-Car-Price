@@ -1,0 +1,53 @@
+2023-08-29 07:27:10.513 [info] 
+
+
+
+
+2023-08-29 07:27:10.519 [info] Extension host agent started.
+2023-08-29 07:27:10.601 [debug] No uninstalled extensions found.
+2023-08-29 07:27:10.603 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-08-29 07:27:10.625 [info] [127.0.0.1][2f1e49f6][ManagementConnection] New connection established.
+2023-08-29 07:27:10.665 [info] Log level changed to info
+2023-08-29 07:27:11.431 [info] [127.0.0.1][5f6da395][ExtensionHostConnection] New connection established.
+2023-08-29 07:27:12.094 [info] [127.0.0.1][5f6da395][ExtensionHostConnection] <263> Launched Extension Host Process.
+2023-08-29 07:27:13.255 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2023-08-29 07:28:10.706 [info] [127.0.0.1][2f1e49f6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-29 07:28:11.541 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 07:28:37.367 [info] [127.0.0.1][8c5015f9][ManagementConnection] New connection established.
+2023-08-29 07:28:39.254 [info] [127.0.0.1][2a95d5e3][ExtensionHostConnection] New connection established.
+2023-08-29 07:28:39.374 [info] [127.0.0.1][2a95d5e3][ExtensionHostConnection] <1023> Launched Extension Host Process.
+2023-08-29 07:29:05.943 [info] [127.0.0.1][8c5015f9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-29 07:29:05.960 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 07:29:05.988 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-08-29 07:29:05.995 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-08-29 07:29:06.002 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-08-29 07:29:06.003 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-08-29 07:29:06.009 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+2023-08-29 07:29:06.035 [info] [127.0.0.1][2a95d5e3][ExtensionHostConnection] <1023> Extension Host Process exited with code: 0, signal: null.
