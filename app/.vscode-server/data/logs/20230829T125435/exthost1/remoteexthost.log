@@ -1,0 +1,28 @@
+2023-08-29 12:55:03.599 [info] Extension host with pid 395 started
+2023-08-29 12:55:03.699 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/3c24601e7b833fc8a14fcaa1816554e1/vscode.lock'
+2023-08-29 12:55:03.922 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-29 12:55:03.927 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-08-29 12:55:07.425 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-29 12:55:07.746 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3c24601e7b833fc8a14fcaa1816554e1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-08-29 12:55:07.915 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3c24601e7b833fc8a14fcaa1816554e1/vscode.lock': The lock does not look stale, elapsed: 342915 ms, giving up.
+2023-08-29 12:55:08.161 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3c24601e7b833fc8a14fcaa1816554e1-1/vscode.lock': Lock acquired.
+2023-08-29 12:55:08.403 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-29 12:55:08.405 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-29 12:55:10.537 [info] Eager extensions activated
+2023-08-29 12:55:10.542 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-29 12:55:10.544 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-29 12:55:11.677 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-08-29 14:55:15.458 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-08-29 15:11:37.534 [info] Extension host terminating: received terminate message from renderer
+2023-08-29 15:11:37.778 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/3c24601e7b833fc8a14fcaa1816554e1-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-08-29 15:11:46.391 [error] Error: Stopping the server timed out
+	at /root/.vscode-server/extensions/ms-python.python-2023.14.0/out/client/extension.js:2:2064115
+	at async Object.stop (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:105400)
+	at async _0x370556.<computed>._stopClient (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:49546)
+	at async _0x370556.<computed>._createNewRequest (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:49162)
+2023-08-29 15:11:46.505 [error] Error: Stopping the server timed out
+	at /root/.vscode-server/extensions/ms-python.python-2023.14.0/out/client/extension.js:2:2064115
+	at async Object.stop (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:105400)
+	at async _0x370556.<computed>._stopClient (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:49546)
+	at async _0x370556.<computed>._createNewRequest (/root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/extension.bundle.js:1:49162)
+2023-08-29 15:11:46.594 [info] Extension host with pid 395 exiting with code 0

@@ -1,0 +1,69 @@
+2023-08-29 07:35:54.289 [info] 
+
+
+
+
+2023-08-29 07:35:54.538 [info] Extension host agent started.
+2023-08-29 07:35:55.716 [debug] No uninstalled extensions found.
+2023-08-29 07:35:55.910 [info] [127.0.0.1][1c9deeb6][ManagementConnection] New connection established.
+2023-08-29 07:35:56.015 [info] Log level changed to info
+2023-08-29 07:35:56.702 [info] [127.0.0.1][ecb1d331][ExtensionHostConnection] New connection established.
+2023-08-29 07:35:57.160 [info] [127.0.0.1][ecb1d331][ExtensionHostConnection] <352> Launched Extension Host Process.
+2023-08-29 11:06:18.553 [info] Getting Manifest... ms-python.python
+2023-08-29 11:06:19.934 [info] Installing extension: ms-python.python
+2023-08-29 11:06:27.431 [info] Getting Manifest... ms-python.vscode-pylance
+2023-08-29 11:06:28.580 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-08-29 11:06:37.878 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2023-08-29 11:06:50.409 [error] No ptyHost response to createProcess after 5 seconds
+2023-08-29 11:11:00.829 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.python-2023.14.0: ms-python.python
+2023-08-29 11:11:00.981 [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2023.14.0
+2023-08-29 11:11:01.028 [info] Extracting extension completed. ms-python.python
+2023-08-29 11:11:10.667 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-08-29 11:18:22.186 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40: ms-python.vscode-pylance
+2023-08-29 11:18:22.296 [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40
+2023-08-29 11:18:22.359 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-08-29 11:18:22.557 [info] Extension installed successfully: ms-python.python
+2023-08-29 11:18:22.559 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-08-29 12:48:26.387 [info] [127.0.0.1][1c9deeb6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-29 12:48:27.422 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 12:48:27.697 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 12:48:27.787 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 12:48:27.851 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 12:48:27.870 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-29 12:48:27.880 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)

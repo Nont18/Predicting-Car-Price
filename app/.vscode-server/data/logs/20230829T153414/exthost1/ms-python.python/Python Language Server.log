@@ -1,0 +1,12 @@
+2023-08-29 15:35:29.520 [info] [Info  - 3:35:15 PM] (860) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-29 15:35:29.529 [info] [Info  - 3:35:29 PM] (860) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-29 15:35:29.542 [info] [Info  - 3:35:29 PM] (860) Starting service instance "root"
+2023-08-29 15:35:29.957 [info] [Info  - 3:35:29 PM] (860) Setting pythonPath for service "root": "/usr/local/bin/python"
+2023-08-29 15:35:30.012 [info] [Warn  - 3:35:30 PM] (860) stubPath /root/typings is not a valid directory.
+2023-08-29 15:35:30.231 [info] [Info  - 3:35:30 PM] (860) Assuming Python version 3.10
+2023-08-29 15:35:36.855 [info] [Info  - 3:35:36 PM] (860) Found 1 source file
+2023-08-29 15:36:01.993 [info] [Info  - 3:36:01 PM] (860) [BG(1)] Long operation: parsing: /root/code/app.py (17073ms)
+2023-08-29 15:36:20.201 [info] [Info  - 3:36:20 PM] (860) [BG(1)] Long operation: checking: /root/code/app.py (17552ms)
+2023-08-29 15:36:20.204 [info] [Info  - 3:36:20 PM] (860) [BG(1)] Long operation: analyzing: /root/code/app.py (35283ms)
+2023-08-29 15:36:42.108 [info] [Info  - 3:36:42 PM] (860) [IDX(2)] Long operation: scan packages /root (58074ms)
+2023-08-29 15:36:47.865 [info] [Info  - 3:36:47 PM] (860) [IDX(2)] Long operation: index packages /root (2231ms)
