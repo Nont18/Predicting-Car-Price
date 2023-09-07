@@ -1,0 +1,16 @@
+2023-09-07 16:15:20.853 [info] [Info  - 4:15:08 PM] (1018) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-09-07 16:15:20.878 [info] [Info  - 4:15:20 PM] (1018) Server root directory: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-09-07 16:15:20.891 [info] [Info  - 4:15:20 PM] (1018) Starting service instance "root"
+2023-09-07 16:15:21.434 [info] [Info  - 4:15:21 PM] (1018) Setting pythonPath for service "root": "/usr/local/bin/python"
+2023-09-07 16:15:21.452 [info] [Warn  - 4:15:21 PM] (1018) stubPath /root/typings is not a valid directory.
+2023-09-07 16:15:21.668 [info] [Info  - 4:15:21 PM] (1018) Assuming Python version 3.10
+2023-09-07 16:15:30.433 [info] [Info  - 4:15:30 PM] (1018) Found 1 source file
+2023-09-07 16:15:52.390 [info] [Info  - 4:15:52 PM] (1018) [BG(1)] Long operation: parsing: /root/code/app.py (10158ms)
+2023-09-07 16:16:19.857 [info] [Info  - 4:16:19 PM] (1018) [BG(1)] Long operation: getSemanticTokens full at /root/code/app.py (37660ms)
+2023-09-07 16:17:04.183 [info] [Info  - 4:17:04 PM] (1018) [FG] Long operation: parsing: /usr/local/lib/python3.10/site-packages/dash/development/base_component.py (4579ms)
+2023-09-07 16:17:06.972 [info] [Info  - 4:17:06 PM] (1018) [FG] Long operation: parsing: /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.8.40/dist/typeshed-fallback/stdlib/collections/__init__.pyi (2440ms)
+2023-09-07 16:17:09.554 [info] [Info  - 4:17:09 PM] (1018) [FG] Long operation: parsing: /usr/local/lib/python3.10/site-packages/dash/_utils.py (2303ms)
+2023-09-07 16:17:16.866 [info] [Info  - 4:17:16 PM] (1018) [IDX(2)] Long operation: scan packages /root (92096ms)
+2023-09-07 16:17:35.020 [info] [Info  - 4:17:35 PM] (1018) [IDX(2)] Long operation: index packages /root (12077ms)
+2023-09-07 16:49:32.853 [info] [Info  - 4:49:32 PM] (1018) [BG(1)] Long operation: analyzing: /root/code/app.py (2968ms)
+2023-09-07 16:49:34.874 [info] [Info  - 4:49:34 PM] (1018) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1694103353335 at /root/code/app.py (2130ms)

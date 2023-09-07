@@ -1,0 +1,196 @@
+2023-09-07 16:13:42.532 [info] 
+
+
+
+
+2023-09-07 16:13:42.884 [info] Extension host agent started.
+2023-09-07 16:13:46.362 [debug] No uninstalled extensions found.
+2023-09-07 16:13:47.105 [info] [127.0.0.1][0d0d7fa6][ExtensionHostConnection] New connection established.
+2023-09-07 16:13:47.110 [info] [127.0.0.1][b91b2415][ManagementConnection] New connection established.
+2023-09-07 16:13:47.127 [info] [127.0.0.1][0d0d7fa6][ExtensionHostConnection] <417> Launched Extension Host Process.
+2023-09-07 16:13:47.170 [info] Log level changed to info
+2023-09-07 16:13:49.053 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [8, 376] .
+2023-09-07 16:13:49.058 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [384, 69] Invalid symbol.
+2023-09-07 16:13:49.060 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [454, 15] Invalid symbol.
+2023-09-07 16:13:49.063 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [470, 6] Invalid symbol.
+2023-09-07 16:13:49.065 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [476, 17] .
+2023-09-07 16:13:49.069 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [476, 17] Comma expected.
+2023-09-07 16:13:49.072 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [494, 23] Invalid symbol.
+2023-09-07 16:13:49.076 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [518, 23] Invalid symbol.
+2023-09-07 16:13:49.078 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [542, 15] Invalid symbol.
+2023-09-07 16:13:49.084 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [558, 7] Invalid symbol.
+2023-09-07 16:13:49.085 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [566, 260] Invalid symbol.
+2023-09-07 16:13:49.088 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [827, 15] Invalid symbol.
+2023-09-07 16:13:49.089 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [843, 19] Invalid symbol.
+2023-09-07 16:13:49.091 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [863, 35] Invalid symbol.
+2023-09-07 16:13:49.102 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [899, 3] Invalid symbol.
+2023-09-07 16:13:49.108 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [902, 1] Colon expected.
+2023-09-07 16:13:49.110 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [903, 1] Invalid symbol.
+2023-09-07 16:13:49.111 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [905, 7] Invalid symbol.
+2023-09-07 16:13:49.114 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [914, 4] Invalid symbol.
+2023-09-07 16:13:49.119 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [920, 5] Invalid symbol.
+2023-09-07 16:13:49.121 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [926, 3] Invalid symbol.
+2023-09-07 16:13:49.122 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [930, 1] Invalid symbol.
+2023-09-07 16:13:49.124 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [932, 10] Invalid symbol.
+2023-09-07 16:13:49.125 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [943, 4] Invalid symbol.
+2023-09-07 16:13:49.127 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [948, 4] Invalid symbol.
+2023-09-07 16:13:49.129 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [953, 9] Invalid symbol.
+2023-09-07 16:13:49.130 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [963, 8] Invalid symbol.
+2023-09-07 16:13:49.136 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [972, 9] Invalid symbol.
+2023-09-07 16:13:49.137 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [982, 7] Invalid symbol.
+2023-09-07 16:13:49.139 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [990, 10] Invalid symbol.
+2023-09-07 16:13:49.139 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [1001, 6] Invalid symbol.
+2023-09-07 16:13:49.141 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [1008, 3] Invalid symbol.
+2023-09-07 16:13:49.142 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [1011, 1382] .
+2023-09-07 16:13:49.143 [error] [/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication]: Failed to parse /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/extensions/microsoft-authentication/package.json: [2393, 0] Closing brace expected.
+2023-09-07 16:13:57.626 [error] No ptyHost response to createProcess after 5 seconds
+2023-09-07 16:14:05.235 [info] Getting Manifest... ms-python.vscode-pylance
+2023-09-07 16:14:06.318 [info] Installing extension: ms-python.vscode-pylance
+2023-09-07 16:14:10.394 [info] Getting Manifest... ms-python.python
+2023-09-07 16:14:18.827 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2023-09-07 16:26:27.435 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10: ms-python.vscode-pylance
+2023-09-07 16:26:27.904 [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2023.9.10
+2023-09-07 16:26:27.967 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-09-07 16:26:28.608 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-09-07 16:26:29.387 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.8.40
+2023-09-07 16:44:40.352 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:159:6046)
+    at process.emit (node:events:513:28)
+2023-09-07 16:49:41.361 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 16:59:59.833 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:00:00.769 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:00:22.190 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:00:25.060 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:00:28.274 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:00:31.143 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:00:33.229 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:00:33.290 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:00:58.373 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:01:01.128 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:01:04.282 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:01:07.148 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:01:07.209 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:02:30.596 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:03:05.982 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:03:06.196 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:03:06.370 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:06:21.596 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:06:40.969 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:08:07.850 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:08:08.702 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:08:40.545 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:08:40.628 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:09:01.697 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:09:03.706 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:09:03.794 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:13:12.886 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:16:53.544 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:16:54.759 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:17:16.568 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:17:19.517 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:17:22.545 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:17:25.498 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:17:38.229 [error] Error: connect ECONNREFUSED 127.0.0.1:8050
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+2023-09-07 17:18:01.029 [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-09-07 17:21:16.883 [info] [127.0.0.1][b91b2415][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-07 17:21:17.772 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:17.888 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:18.000 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:18.098 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:18.160 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:18.161 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:18.368 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:18.369 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:18.371 [error] Error: Throttler is disposed
+    at r.queue (/root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /root/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-07 17:21:20.345 [warning] No ptyHost heartbeat after 6 seconds
+2023-09-07 17:21:32.479 [info] [127.0.0.1][0d0d7fa6][ExtensionHostConnection] <417> Extension Host Process exited with code: 0, signal: null.

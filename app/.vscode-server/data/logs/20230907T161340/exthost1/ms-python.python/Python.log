@@ -1,0 +1,60 @@
+2023-09-07 16:14:46.217 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-07 16:14:46.220 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-07 16:14:46.221 [info] Experiment 'pythonTestAdapter' is active
+2023-09-07 16:14:46.222 [info] Test server listening.
+2023-09-07 16:14:46.223 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 16:14:48.095 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 16:14:48.096 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 16:14:48.097 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 16:14:48.116 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 16:14:48.117 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 16:14:49.870 [info] > /usr/local/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-07 16:15:02.126 [info] Python interpreter path: /usr/local/bin/python
+2023-09-07 16:15:21.135 [info] Starting Pylance language server.
+2023-09-07 16:15:22.293 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 16:43:46.522 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 16:49:32.647 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 16:49:36.099 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 16:49:36.452 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 16:49:38.773 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 16:49:47.915 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 16:51:44.250 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 16:51:44.972 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 16:52:07.266 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 16:52:08.072 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 16:56:16.816 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 16:56:17.367 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 16:59:57.107 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:00:28.862 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:00:29.195 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:01:13.784 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 17:02:24.878 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:02:25.388 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:02:59.993 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:03:00.844 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:04:02.602 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:06:16.568 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:06:35.498 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:06:51.544 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:08:02.105 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:08:16.929 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:08:17.410 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:08:33.290 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:08:59.031 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:09:20.849 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 17:12:00.511 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:12:01.554 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:12:30.590 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:12:46.551 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:12:46.945 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:16:00.629 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:16:49.543 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:16:49.885 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:17:22.606 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 17:17:31.846 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:17:32.121 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:17:33.822 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 17:17:54.418 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:17:54.779 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:18:39.773 [info] Discover tests for workspace name: root - uri: /root/code/app.py
+2023-09-07 17:18:40.071 [info] Discover tests for workspace name: root - uri: /root/code/app.py
