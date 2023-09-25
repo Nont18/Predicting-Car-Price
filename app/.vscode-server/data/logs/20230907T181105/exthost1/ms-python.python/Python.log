@@ -1,0 +1,15 @@
+2023-09-07 18:11:35.026 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-09-07 18:11:35.033 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-09-07 18:11:35.035 [info] Experiment 'pythonTestAdapter' is active
+2023-09-07 18:11:35.037 [info] Test server listening.
+2023-09-07 18:11:35.430 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 18:11:35.431 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 18:11:35.432 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 18:11:35.433 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 18:11:35.435 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 18:11:35.489 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 18:11:35.490 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-09-07 18:11:35.902 [info] > /usr/local/bin/python -I ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-09-07 18:11:36.244 [info] Python interpreter path: /usr/local/bin/python
+2023-09-07 18:11:38.203 [info] Send text to terminal: /usr/local/bin/python /root/code/app.py
+2023-09-07 18:11:42.042 [info] Starting Pylance language server.

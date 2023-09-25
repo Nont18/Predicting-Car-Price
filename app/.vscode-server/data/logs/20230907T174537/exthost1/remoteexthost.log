@@ -1,0 +1,5 @@
+2023-09-07 17:46:55.694 [info] Extension host with pid 354 started
+2023-09-07 17:46:55.958 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/328d74348cb6b259f7660246d7ffe77a/vscode.lock': Lock acquired.
+2023-09-07 18:06:10.663 [info] Extension host terminating: received terminate message from renderer
+2023-09-07 18:06:10.679 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/328d74348cb6b259f7660246d7ffe77a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-09-07 18:06:10.726 [info] Extension host with pid 354 exiting with code 0

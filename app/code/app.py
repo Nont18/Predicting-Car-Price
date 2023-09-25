@@ -19,12 +19,13 @@ app.layout = dbc.Container([
         dbc.Col([
             html.H2("Welcome to Car Price Prediction System"),
             html.H5("Insert the following value for automatic prediction..."),
+            html.H6("You must need to know 3 features for predicting car price."),
             dbc.CardGroup([
-                dbc.Label("Max Power"),
+                dbc.Label("Max Power(bhp)"),
                 dcc.Input(id="max_power", type="number", placeholder="Enter max power", debounce=True),
-                dbc.Label("Mileage"),
+                dbc.Label("Mileage(kmpl)"),
                 dcc.Input(id="mileage", type="number", placeholder="Enter mileage", debounce=True),
-                dbc.Label("Kilometers Driven"),
+                dbc.Label("Kilometers Driven(km)"),
                 dcc.Input(id="km_driven", type="number", placeholder="Enter kilometers driven", debounce=True),
             ]),
             dbc.Label("Predicted Price:"),
@@ -48,6 +49,8 @@ def predict(max_power, mileage, km_driven):
         # Make a prediction
         predicted_price = np.exp(loaded_model.predict(scaled_input))[0]
         return f"Predicted Price: ${predicted_price:.2f}"
+    if max_power is None or mileage is None or km_driven is None:
+        return "Enter value to predict..."
     else:
         return "Enter valid input"
 
